@@ -243,6 +243,73 @@ python generate_toc.py
 ```
 
 ---
+## Badges 
+
+| Technologie / Outil | Badge                                                                                                   |
+| ------------------- | ------------------------------------------------------------------------------------------------------- |
+| Ethernet            | `![Ethernet](https://img.shields.io/badge/-Ethernet-228B22?style=for-the-badge&logo=ethernet)`          |
+| Wi-Fi               | `![Wi-Fi](https://img.shields.io/badge/-Wi--Fi-1C86EE?style=for-the-badge&logo=wi-fi)`                  |
+| TCP/IP              | `![TCP/IP](https://img.shields.io/badge/-TCP/IP-4169E1?style=for-the-badge&logo=protocolsio)`           |
+| DNS                 | `![DNS](https://img.shields.io/badge/-DNS-8A2BE2?style=for-the-badge&logo=cloudflare)`                  |
+| DHCP                | `![DHCP](https://img.shields.io/badge/-DHCP-9932CC?style=for-the-badge&logo=serverless)`                |
+| VPN                 | `![VPN](https://img.shields.io/badge/-VPN-00CED1?style=for-the-badge&logo=openvpn)`                     |
+| OpenVPN             | `![OpenVPN](https://img.shields.io/badge/-OpenVPN-FB8C00?style=for-the-badge&logo=openvpn)`             |
+| WireGuard           | `![WireGuard](https://img.shields.io/badge/-WireGuard-88171A?style=for-the-badge&logo=wireguard)`       |
+| Firewall            | `![Firewall](https://img.shields.io/badge/-Firewall-B22222?style=for-the-badge&logo=firefox)`           |
+| pfSense             | `![pfSense](https://img.shields.io/badge/-pfSense-223344?style=for-the-badge&logo=pfsense)`             |
+| Cisco               | `![Cisco](https://img.shields.io/badge/-Cisco-1BA0D7?style=for-the-badge&logo=cisco)`                   |
+| Mikrotik            | `![Mikrotik](https://img.shields.io/badge/-Mikrotik-444444?style=for-the-badge&logo=mikrotik)`          |
+| Ubiquiti            | `![Ubiquiti](https://img.shields.io/badge/-Ubiquiti-055574?style=for-the-badge&logo=ubiquiti)`          |
+| Nmap                | `![Nmap](https://img.shields.io/badge/-Nmap-214478?style=for-the-badge&logo=nmap)`                      |
+| Wireshark           | `![Wireshark](https://img.shields.io/badge/-Wireshark-0077AA?style=for-the-badge&logo=wireshark)`       |
+| SNMP                | `![SNMP](https://img.shields.io/badge/-SNMP-4B0082?style=for-the-badge&logo=snmp)`                      |
+| IPv6                | `![IPv6](https://img.shields.io/badge/-IPv6-008000?style=for-the-badge&logo=internet-explorer)`         |
+| Netcat              | `![Netcat](https://img.shields.io/badge/-Netcat-708090?style=for-the-badge&logo=gnu-bash)`              |
+| NetworkManager      | `![NetworkManager](https://img.shields.io/badge/-NetworkManager-A52A2A?style=for-the-badge&logo=linux)` |
+| Zabbix              | `![Zabbix](https://img.shields.io/badge/-Zabbix-DC3522?style=for-the-badge&logo=zabbix)`                |
+| ARP                          | `![ARP](https://img.shields.io/badge/-ARP-556B2F?style=for-the-badge&logo=protocolsio)`                     |
+| ICMP                         | `![ICMP](https://img.shields.io/badge/-ICMP-4682B4?style=for-the-badge&logo=gnu-bash)`                      |
+| BGP                          | `![BGP](https://img.shields.io/badge/-BGP-DC143C?style=for-the-badge&logo=cisco)`                           |
+| OSPF                         | `![OSPF](https://img.shields.io/badge/-OSPF-DAA520?style=for-the-badge&logo=networkx)`                      |
+| VLAN                         | `![VLAN](https://img.shields.io/badge/-VLAN-7B68EE?style=for-the-badge&logo=ubiquiti)`                      |
+| NAT                          | `![NAT](https://img.shields.io/badge/-NAT-2E8B57?style=for-the-badge&logo=linux)`                           |
+| Subnetting                   | `![Subnetting](https://img.shields.io/badge/-Subnetting-8FBC8F?style=for-the-badge&logo=internet-computer)` |
+| Routing                      | `![Routing](https://img.shields.io/badge/-Routing-5F9EA0?style=for-the-badge&logo=router)`                  |
+| Netstat                      | `![Netstat](https://img.shields.io/badge/-Netstat-808080?style=for-the-badge&logo=gnubash)`                 |
+| Traceroute                   | `![Traceroute](https://img.shields.io/badge/-Traceroute-2F4F4F?style=for-the-badge&logo=gnubash)`           |
+| iptables                     | `![iptables](https://img.shields.io/badge/-iptables-B22222?style=for-the-badge&logo=linux)`                 |
+| fail2ban                     | `![fail2ban](https://img.shields.io/badge/-fail2ban-8B0000?style=for-the-badge&logo=protonvpn)`             |
+| Suricata                     | `![Suricata](https://img.shields.io/badge/-Suricata-FF4500?style=for-the-badge&logo=suricata)`              |
+| Snort                        | `![Snort](https://img.shields.io/badge/-Snort-FF69B4?style=for-the-badge&logo=palo-alto-networks)`          |
+| Nagios                       | `![Nagios](https://img.shields.io/badge/-Nagios-000000?style=for-the-badge&logo=nagios)`                    |
+| Prometheus                   | `![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=for-the-badge&logo=prometheus)`        |
+| Grafana                      | `![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=for-the-badge&logo=grafana)`                 |
+| Netlify                      | `![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=for-the-badge&logo=netlify)`                 |
+| Portainer                    | `![Portainer](https://img.shields.io/badge/-Portainer-13BEF9?style=for-the-badge&logo=portainer)`           |
+| Ansible (Network Automation) | `![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=for-the-badge&logo=ansible)`                 |
+| Python      | `![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)`             |
+| JavaScript  | `![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)` |
+| TypeScript  | `![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)` |
+| Java        | `![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)`                   |
+| C++         | `![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)`              |
+| Go          | `![Go](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)`                         |
+| Rust        | `![Rust](https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=white)`                   |
+| Ruby        | `![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)`                   |
+| PHP         | `![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)`                      |
+| Swift       | `![Swift](https://img.shields.io/badge/-Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)`                |
+| Kotlin      | `![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)`             |
+| C#          | `![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)`                  |
+| Node.js     | `![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white)`      |
+| React       | `![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)`                |
+| Angular     | `![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)`          |
+| Vue.js      | `![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)`             |
+| Django      | `![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)`             |
+| Flask       | `![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)`                |
+| Spring Boot | `![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)`             |
+| Docker      | `![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)`             |
+
+
+---
 
 ## Licence
 

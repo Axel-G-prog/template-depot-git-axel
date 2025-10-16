@@ -344,8 +344,22 @@ python generate_toc.py
 ![ESP32](https://img.shields.io/badge/-ESP32-32C832?style=for-the-badge&logo=espressif&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
-
 ---
+
+## Systèmes d'exploitation
+![Debian 12](https://img.shields.io/badge/-Debian%2012-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-268BBD?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Ubuntu Server](https://img.shields.io/badge/-Ubuntu%20Server-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Linux Mint](https://img.shields.io/badge/-Linux%20Mint-87CF3E?style=for-the-badge&logo=linuxmint&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
+![Manjaro](https://img.shields.io/badge/-Manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white)
+![Alpine Linux](https://img.shields.io/badge/-Alpine%20Linux-0D597F?style=for-the-badge&logo=alpinelinux&logoColor=white)
+![CentOS](https://img.shields.io/badge/-CentOS-262577?style=for-the-badge&logo=centos&logoColor=white)
+![Rocky Linux](https://img.shields.io/badge/-Rocky%20Linux-10B981?style=for-the-badge&logo=rockylinux&logoColor=white)
+![Red Hat](https://img.shields.io/badge/-Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
+
+
 
 ## Licence
 

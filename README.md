@@ -29,6 +29,7 @@ Avant de commencer, assurez-vous d’avoir les éléments suivants installés :
 [![GitHub Issues](https://img.shields.io/github/issues/Axel-G-prog/template-depot-git-axel.svg)](https://github.com/Axel-G-prog/template-depot-git-axel/issues)
 [![Version](https://img.shields.io/badge/version-1.0.7-green.svg)](https://github.com/Axel-G-prog/template-depot-git-axel)
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](https://github.com/Axel-G-prog/template-depot-git-axel/blob/main/CONTRIBUTORS.md)
+<img src="https://img.shields.io/badge/Raspberry%20Pi-5-red?logo=raspberrypi" alt="Raspberry Pi">
 
 
 ---

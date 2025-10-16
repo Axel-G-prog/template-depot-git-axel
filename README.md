@@ -309,6 +309,14 @@ python generate_toc.py
 | Docker      | `![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)`             |
 
 
+| Technologie / Outil | Badge |
+|---------------------|-------|
+| Ethernet            | ![Ethernet](https://img.shields.io/badge/-Ethernet-228B22?style=for-the-badge&logo=ethernet) |
+| Wi-Fi               | ![Wi-Fi](https://img.shields.io/badge/-Wi--Fi-1C86EE?style=for-the-badge&logo=wi-fi) |
+| TCP/IP              | ![TCP/IP](https://img.shields.io/badge/-TCP/IP-4169E1?style=for-the-badge&logo=protocolsio) |
+| DNS                 | ![DNS](https://img.shields.io/badge/-DNS-8A2BE2?style=for-the-badge&logo=cloudflare) |
+
+
 ---
 
 ## Licence

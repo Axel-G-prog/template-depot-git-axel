@@ -24,10 +24,10 @@ Avant de commencer, assurez-vous d’avoir les éléments suivants installés :
 ![Dernier commit](https://img.shields.io/github/last-commit/boudjelaba/template-depot-git?label=Dernier%20commit)
 [![Status](https://img.shields.io/badge/Status-En%20développement-yellow)]()
 
-![Taille du repo](https://img.shields.io/github/repo-size/boudjelaba/template-depot-git?label=Taille%20du%20repo)
+![Taille du repo](https://img.shields.io/github/repo-size/Axel-G-prog/template-depot-git?label=Taille%20du%20repo)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/boudjelaba/template-depot-git)
 ![GitHub language count](https://img.shields.io/github/languages/count/boudjelaba/template-depot-git)
-![GitHub repo file or directory count](https://img.shields.io/github/directory-file-count/boudjelaba/template-depot-git)
+![GitHub repo file or directory count](https://img.shields.io/github/directory-file-count/Axel-G-prog/template-depot-git)
 [![GitHub Issues](https://img.shields.io/github/issues/IgorAntun/node-chat.svg)](https://github.com/boudjelaba/template-depot-git/issues) [![Current Version](https://img.shields.io/badge/version-1.0.7-green.svg)](https://github.com/boudjelaba/template-depot-git/node-chat)
 [![All Contributors](https://img.shields.io/badge/all_contributors-73-orange.svg?style=flat-square)]([./CONTRIBUTORS.md](https://github.com/boudjelaba/template-depot-git))
 

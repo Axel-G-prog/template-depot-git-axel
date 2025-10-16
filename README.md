@@ -247,7 +247,6 @@ python generate_toc.py
 
 ### 🌐 Réseaux & Outils
 
-```markdown
 ![Ethernet](https://img.shields.io/badge/-Ethernet-228B22?style=for-the-badge&logo=ethernet)
 ![Wi-Fi](https://img.shields.io/badge/-Wi--Fi-1C86EE?style=for-the-badge&logo=wi-fi)
 ![TCP/IP](https://img.shields.io/badge/-TCP/IP-4169E1?style=for-the-badge&logo=protocolsio)
@@ -288,13 +287,12 @@ python generate_toc.py
 ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=for-the-badge&logo=netlify)
 ![Portainer](https://img.shields.io/badge/-Portainer-13BEF9?style=for-the-badge&logo=portainer)
 ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=for-the-badge&logo=ansible)
-```
+
 
 ---
 
 ## 💻 Langages & Dev
 
-```markdown
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -312,25 +310,19 @@ python generate_toc.py
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&
-```
-
-
-logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white) 
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge\&logo=spring\&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
 
-````
+
 
 ---
 
 ## 🔧 IoT / Embedded
 
-```markdown
 ![Espressif](https://img.shields.io/badge/-Espressif-FF4B00?style=for-the-badge&logo=espressif&logoColor=white)
 ![ESP32](https://img.shields.io/badge/-ESP32-32C832?style=for-the-badge&logo=espressif&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-````
 
 
 ---

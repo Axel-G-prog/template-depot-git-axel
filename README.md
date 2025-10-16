@@ -358,6 +358,64 @@ python generate_toc.py
 ![CentOS](https://img.shields.io/badge/-CentOS-262577?style=for-the-badge&logo=centos&logoColor=white)
 ![Rocky Linux](https://img.shields.io/badge/-Rocky%20Linux-10B981?style=for-the-badge&logo=rockylinux&logoColor=white)
 ![Red Hat](https://img.shields.io/badge/-Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
+![FreeBSD](https://img.shields.io/badge/-FreeBSD-AB2B28?style=for-the-badge&logo=freebsd&logoColor=white)
+![OpenBSD](https://img.shields.io/badge/-OpenBSD-008000?style=for-the-badge&logo=openbsd&logoColor=white)
+![NetBSD](https://img.shields.io/badge/-NetBSD-FF0000?style=for-the-badge&logo=netbsd&logoColor=white)
+![Windows](https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![macOS](https://img.shields.io/badge/-macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+
+
+---
+
+## 🐳 Virtualisation & Conteneurs
+
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![VMware](https://img.shields.io/badge/-VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/-VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
+![Proxmox](https://img.shields.io/badge/-Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
+![Podman](https://img.shields.io/badge/-Podman-89B4FA?style=for-the-badge&logo=podman&logoColor=white)
+
+
+---
+
+## 🔐 Sécurité / Pentest
+
+
+![Metasploit](https://img.shields.io/badge/-Metasploit-FF6C37?style=for-the-badge&logo=metasploit)
+![Burp Suite](https://img.shields.io/badge/-Burp_Suite-F87E01?style=for-the-badge&logo=burpsuite)
+![Kali Linux](https://img.shields.io/badge/-Kali_Linux-268BBD?style=for-the-badge&logo=kalilinux&logoColor=white)
+![OWASP](https://img.shields.io/badge/-OWASP-CC6600?style=for-the-badge&logo=owasp)
+![Nessus](https://img.shields.io/badge/-Nessus-CE1C16?style=for-the-badge&logo=nessus)
+![JohnTheRipper](https://img.shields.io/badge/-JohnTheRipper-000000?style=for-the-badge&logo=linux)
+
+
+---
+
+## 🗄️ Bases de données
+
+
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+
+---
+
+## ☁️ Cloud & DevOps (suite)
+
+
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+---
 
 
 

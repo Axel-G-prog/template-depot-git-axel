@@ -15,21 +15,24 @@ Avant de commencer, assurez-vous d’avoir les éléments suivants installés :
 
 ### Informations sur le dépôt
 
-[![GitHub Stars](https://img.shields.io/github/stars/IgorAntun/node-chat.svg)](https://github.com/boudjelaba/template-depot-git) 
-![GitHub forks](https://img.shields.io/github/forks/boudjelaba/template-depot-git)
-![GitHub watchers](https://img.shields.io/github/watchers/boudjelaba/template-depot-git)
+[![GitHub Stars](https://img.shields.io/github/stars/Axel-G-prog/template-depot-git-axel.svg)](https://github.com/Axel-G-prog/template-depot-git-axel)
+[![GitHub Forks](https://img.shields.io/github/forks/Axel-G-prog/template-depot-git-axel.svg)](https://github.com/Axel-G-prog/template-depot-git-axel/network/members)
+[![GitHub Watchers](https://img.shields.io/github/watchers/Axel-G-prog/template-depot-git-axel.svg)](https://github.com/Axel-G-prog/template-depot-git-axel)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-![Créé le](https://img.shields.io/github/created-at/boudjelaba/template-depot-git?label=Créé%20le)
-![Dernier commit](https://img.shields.io/github/last-commit/boudjelaba/template-depot-git?label=Dernier%20commit)
-[![Status](https://img.shields.io/badge/Status-En%20développement-yellow)]()
+![Créé le](https://img.shields.io/github/created-at/Axel-G-prog/template-depot-git-axel?label=Créé%20le)
+![Dernier commit](https://img.shields.io/github/last-commit/Axel-G-prog/template-depot-git-axel?label=Dernier%20commit)
+[![Status](https://img.shields.io/badge/Status-En%20développement-yellow.svg)]()
 
 ![Taille du repo](https://img.shields.io/github/repo-size/Axel-G-prog/template-depot-git-axel?label=Taille%20du%20repo)
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/boudjelaba/template-depot-git)
-![GitHub language count](https://img.shields.io/github/languages/count/boudjelaba/template-depot-git)
-![GitHub repo file or directory count](https://img.shields.io/github/directory-file-count/Axel-G-prog/template-depot-git)
-[![GitHub Issues](https://img.shields.io/github/issues/IgorAntun/node-chat.svg)](https://github.com/boudjelaba/template-depot-git/issues) [![Current Version](https://img.shields.io/badge/version-1.0.7-green.svg)](https://github.com/boudjelaba/template-depot-git/node-chat)
-[![All Contributors](https://img.shields.io/badge/all_contributors-73-orange.svg?style=flat-square)]([./CONTRIBUTORS.md](https://github.com/boudjelaba/template-depot-git))
+![GitHub code size](https://img.shields.io/github/languages/code-size/Axel-G-prog/template-depot-git-axel)
+![GitHub language count](https://img.shields.io/github/languages/count/Axel-G-prog/template-depot-git-axel)
+![GitHub file count](https://img.shields.io/github/directory-file-count/Axel-G-prog/template-depot-git-axel)
+
+[![GitHub Issues](https://img.shields.io/github/issues/Axel-G-prog/template-depot-git-axel.svg)](https://github.com/Axel-G-prog/template-depot-git-axel/issues)
+[![Version](https://img.shields.io/badge/version-1.0.7-green.svg)](https://github.com/Axel-G-prog/template-depot-git-axel)
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](https://github.com/Axel-G-prog/template-depot-git-axel/blob/main/CONTRIBUTORS.md)
+
 
 ---
 
